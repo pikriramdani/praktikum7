@@ -12,7 +12,7 @@ print(list(range(6, 16, 1)))
 print(list(range(7, 17, 1)))
 print(list(range(8, 18, 1)))
 print(list(range(9, 19, 1)))
-print()
+
 
 print("=========================")
 print("= Nama   : Pikri Ramdan  ")
